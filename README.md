@@ -21,6 +21,5 @@ Progression GIF of style transfer every 500 epochs until 6500:
 
 
 References:
-[Neural Style Transfer, Gatys et al.](http://openaccess.thecvf.com/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html)
-
-[NST repo, nazianafis](https://github.com/nazianafis/Neural-Style-Transfer/tree/main)
+- [Neural Style Transfer, Gatys et al.](http://openaccess.thecvf.com/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html)
+- [NST repo, nazianafis](https://github.com/nazianafis/Neural-Style-Transfer/tree/main)
