@@ -4,7 +4,7 @@ Class project: Neural Style Transfer implementation.
 
 The text near images denots: Height_ContentWeight_StyleWeight_TvWeight(default=1)
 
-Faculty of Intelligent Systems Engineering & Data Science at PGU:
+Faculty of Intelligent Systems Engineering & Data Science at PGU (click to see full size):
 
 ![faculty_2.jpg](https://github.com/salehrayan/Neural_networks_class_and_project/blob/main/Neural%20style%20transfer%20project/Figures/faculty_2_11zon.jpg)
 
